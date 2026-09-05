@@ -28,12 +28,31 @@ git clone https://github.com/Skully-755/Scraper-ghost.git
 cd Scraper-ghost
 pip install -r requirements.txt
 ```
+---
+
+### Ambiente Virtual (venv)
+
+Recomenda-se o uso de um ambiente virtual para isolar as dependências do projeto.
+
+**Criação e ativação:**
+
+```bash
+# Linux/macOS
+python3 -m venv venv
+source venv/bin/activate
+
+# Windows
+python -m venv venv
+venv\Scripts\activate
+```
+---
 
 ## Utilização
 
 ```bash
 python3 scraper-ghost.py 
 ```
+---
 
 ## Licença
 
