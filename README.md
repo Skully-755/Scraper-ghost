@@ -34,3 +34,7 @@ pip install -r requirements.txt
 ```bash
 python3 scraper-ghost.py 
 ```
+
+## Licença
+
+Este projeto está licenciado sob os termos da licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
