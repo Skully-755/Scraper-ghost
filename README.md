@@ -27,8 +27,10 @@ O projeto encontra-se em fase beta.
 git clone https://github.com/Skully-755/Scraper-ghost.git
 cd Scraper-ghost
 pip install -r requirements.txt
+```
 
 ## Utilização
 
 ```bash
-python3 scraper-ghost.py
+python3 scraper-ghost.py 
+```
