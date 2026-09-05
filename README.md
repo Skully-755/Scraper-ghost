@@ -1,3 +1,6 @@
+<palign="center">
+  <img src="assets/.png" alt="Scraper Ghost" width="800">
+</p>
 
 # Scraper-ghost
 
