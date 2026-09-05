@@ -1,5 +1,5 @@
-<palign="center">
-  <img src="assets/.png" alt="Scraper Ghost" width="800">
+<p align="center">
+  <img src="assets/spider.png" alt="Scraper Ghost" width="800">
 </p>
 
 # Scraper-ghost
